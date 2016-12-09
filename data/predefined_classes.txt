@@ -1,5 +1,9 @@
-dog
-person
-cat
-tv
+backpack
+bicycle
+bus
 car
+motorbike
+person
+shoulderbag
+train
+wheelchair
